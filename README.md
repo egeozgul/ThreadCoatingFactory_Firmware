@@ -7,3 +7,7 @@
 This is a customlab equipment designed for Nanolab at Tufts University which automates parametric conductive thread manufacturing process.
 
 ![image](smartSensingThread_factory_rotate.gif)
+
+![image](Top.PNG)
+
+
